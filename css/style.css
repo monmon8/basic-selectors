@@ -1,6 +1,8 @@
 body {
   color: #878787;
   margin: 0;
+  font-family: sans-serif;
+  line-height: 1.5;
 }
 
 .main-header {
