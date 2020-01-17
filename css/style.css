@@ -29,11 +29,13 @@ h1 {
 
 h2 {
   font-size: 53;
+  margin-bottom: 26px;
 }
 
 h3 {
   font-size: 20px;
   color: #48525c;
+  margin-bottom: 34px;
 }
 
 .primary-content,
@@ -75,7 +77,8 @@ a:focus {
   color: white;
   background-color: #434a52;
 
-  padding: 18% 24%;
+  padding: 10% 10%;
 
   border: 10px dotted green;
+  margin: 105px 0 60px 0;
 }
